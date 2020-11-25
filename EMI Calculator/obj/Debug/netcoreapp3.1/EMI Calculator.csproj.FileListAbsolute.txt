@@ -1,0 +1,15 @@
+C:\Users\vikas.ray\Desktop\EMI cal\EMI Calculator\bin\Debug\netcoreapp3.1\EMI Calculator.exe
+C:\Users\vikas.ray\Desktop\EMI cal\EMI Calculator\obj\Debug\netcoreapp3.1\EMI Calculator.csprojAssemblyReference.cache
+C:\Users\vikas.ray\Desktop\EMI cal\EMI Calculator\obj\Debug\netcoreapp3.1\EMI_Calculator.Form1.resources
+C:\Users\vikas.ray\Desktop\EMI cal\EMI Calculator\obj\Debug\netcoreapp3.1\EMI Calculator.csproj.GenerateResource.cache
+C:\Users\vikas.ray\Desktop\EMI cal\EMI Calculator\obj\Debug\netcoreapp3.1\EMI Calculator.AssemblyInfoInputs.cache
+C:\Users\vikas.ray\Desktop\EMI cal\EMI Calculator\obj\Debug\netcoreapp3.1\EMI Calculator.AssemblyInfo.cs
+C:\Users\vikas.ray\Desktop\EMI cal\EMI Calculator\bin\Debug\netcoreapp3.1\EMI Calculator.deps.json
+C:\Users\vikas.ray\Desktop\EMI cal\EMI Calculator\bin\Debug\netcoreapp3.1\EMI Calculator.runtimeconfig.json
+C:\Users\vikas.ray\Desktop\EMI cal\EMI Calculator\bin\Debug\netcoreapp3.1\EMI Calculator.runtimeconfig.dev.json
+C:\Users\vikas.ray\Desktop\EMI cal\EMI Calculator\bin\Debug\netcoreapp3.1\EMI Calculator.dll
+C:\Users\vikas.ray\Desktop\EMI cal\EMI Calculator\bin\Debug\netcoreapp3.1\EMI Calculator.pdb
+C:\Users\vikas.ray\Desktop\EMI cal\EMI Calculator\obj\Debug\netcoreapp3.1\EMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\vikas.ray\Desktop\EMI cal\EMI Calculator\obj\Debug\netcoreapp3.1\EMI Calculator.dll
+C:\Users\vikas.ray\Desktop\EMI cal\EMI Calculator\obj\Debug\netcoreapp3.1\EMI Calculator.pdb
+C:\Users\vikas.ray\Desktop\EMI cal\EMI Calculator\obj\Debug\netcoreapp3.1\EMI Calculator.genruntimeconfig.cache
